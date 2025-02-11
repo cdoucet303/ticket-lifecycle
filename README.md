@@ -67,14 +67,15 @@ Now as I log in to Jane Doe the first thing I see in the query is the ticket.
 
 
 <p>
-
+As Jane Doe we can now see all ticket details, reply and keep a timeline of the progress, and close it when it is finished.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/c0b6d53a-1f40-430b-94b4-3833f094091e)
 
 
 <p>
-  
+After hitting post reply the ticket will be closed and disappear from the query and as Jane Doe you just have to wait for another ticket to work on!
 </p>
 <br />
 
